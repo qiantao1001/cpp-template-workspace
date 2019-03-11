@@ -21,7 +21,7 @@ $ ./temp-test
 ```
 
 ## Contact
-For questions and suggestions regarding TinyFSM, success or failure stories, and any other kind of feedback, please feel free to contact the author (the email address can be found in the sources).
+For questions and suggestions, success or failure stories, and any other kind of feedback, please feel free to contact the author (the email address can be found in the sources).
 
 ## License
 This is [Open Source](http://www.opensource.org/docs/definition.html) software. It may be used for any purpose, including commercial purposes, at absolutly no cost. It is distributed under the terms of the [MIT license](http://www.opensource.org/licenses/mit-license.html).
