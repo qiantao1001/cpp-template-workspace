@@ -21,6 +21,8 @@ $ ./temp-test
 ```
 
 ## Contact
+If you would like to contribute or have found bugs, visit the [project page on GitHub](https://github.com/qiantao1001/cpp-template-workspace) and use the [issues tracker](https://github.com/qiantao1001/cpp-template-workspace/issues) there.
+
 For questions and suggestions, success or failure stories, and any other kind of feedback, please feel free to contact the author (the email address can be found in the sources).
 
 ## License
