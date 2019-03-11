@@ -3,7 +3,7 @@
 
 > This is an empty template project for quickly start up coding with c++11.
 
-- Following [《Google c++ style guide》](https://google.github.io/styleguide/cppguide.html)
+- Following [《Google C++ Style Guide》](https://google.github.io/styleguide/cppguide.html)
 - Using [googletest](https://github.com/google/googletest) as test framework
 - Using [CMake](https://cmake.org/) as build system
 
