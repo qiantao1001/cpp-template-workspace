@@ -35,6 +35,7 @@ endif()
 
 ## Compile as C++11
 add_compile_options(-std=c++11)
+# you may need to use the later standard if compilation errors occur
 
 set(EXAMPLE_SRC
   src/example/example.cc
